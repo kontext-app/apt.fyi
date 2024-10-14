@@ -1,8 +1,8 @@
 
-const FEED_HANDLES_SELECTOR = `.css-146c3p1.r-dnmrzs.r-1udh08x.r-3s2u2q.r-bcqeeo.r-1ttztb7.r-qvutc0.r-37j5jr.r-a023e6.r-rjixqe.r-16dba41.r-18u37iz.r-1wvb978`;
-const FEED_HANDLES_SELECTOR_SSR = `.css-146c3p1.r-dnmrzs.r-1udh08x.r-3s2u2q.r-bcqeeo.r-1ttztb7.r-qvutc0.r-37j5jr.r-a023e6.r-rjixqe.r-16dba41.r-18u37iz.r-1wvb978`;
-const FEED_HANDLES_SELECTOR_DARK_MODE = `.css-146c3p1.r-dnmrzs.r-1udh08x.r-3s2u2q.r-bcqeeo.r-1ttztb7.r-qvutc0.r-37j5jr.r-a023e6.r-rjixqe.r-16dba41.r-18u37iz.r-1wvb978`;
-const FEED_HANDLES_SELECTOR_DIM_MODE = `.css-146c3p1.r-dnmrzs.r-1udh08x.r-3s2u2q.r-bcqeeo.r-1ttztb7.r-qvutc0.r-37j5jr.r-a023e6.r-rjixqe.r-16dba41.r-18u37iz.r-1wvb978`;
+const FEED_HANDLES_SELECTOR = `.css-146c3p1.r-dnmrzs.r-1udh08x.r-3s2u2q.r-bcqeeo.r-1ttztb7`;
+const FEED_HANDLES_SELECTOR_SSR = `.css-146c3p1.r-dnmrzs.r-1udh08x.r-3s2u2q.r-bcqeeo.r-1ttztb7`;
+const FEED_HANDLES_SELECTOR_DARK_MODE = `.css-146c3p1.r-dnmrzs.r-1udh08x.r-3s2u2q.r-bcqeeo.r-1ttztb7`;
+const FEED_HANDLES_SELECTOR_DIM_MODE = `.css-146c3p1.r-dnmrzs.r-1udh08x.r-3s2u2q.r-bcqeeo.r-1ttztb7`;
 
 const HOVER_CARD_SELECTOR = `div[data-testid="HoverCard"] .css-175oi2r.r-kemksi.r-qo02w8.r-1867qdf`;
 

@@ -1,4 +1,4 @@
-[Aptos.fyi](https://aptos.fyi) shows the most relevant news from Aptos Twitter, by decentralizing the feed AI layer.
+[Aptos.fyi](https://aptos.fyi) an AI-automated Aptos Twitter community feed, as showcase for decentralizing the social feed AI layer.
 
 <img width="1897" alt="Screenshot 2024-10-14 at 4 08 10 PM" src="https://github.com/user-attachments/assets/4107435d-abd4-4945-8553-14591fbe1b03">
 

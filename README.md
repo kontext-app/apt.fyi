@@ -25,7 +25,7 @@ _Profile shows rank in Aptos and other community lists._
 
 <img width="594" alt="Screenshot 2024-10-14 at 2 59 58 PM" src="https://github.com/user-attachments/assets/dd194aab-a907-4b21-8472-70a51639bbe6">
 
-_Similar, ranks are shown next to usernames throughout the feed._
+_Propose accounts and new lists._
 
 ## Development
 

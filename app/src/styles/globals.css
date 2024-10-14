@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.break-word {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+.hide-scrollbar {
+  overflow: scroll;
+  scrollbar-width: none; /* for Firefox */
+  -ms-overflow-style: none; /* for Internet Explorer and Edge */
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
+}
+
+/*
+.statsrow {
+  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+}
+
+@media (max-width: 250px) and (min-width: 100px) {
+  .statsrow {
+    grid-template-columns: repeat(auto-fit, minmax(10px, 1fr));
+  }
+}
+
+.avatar-group .avatar {
+  display: none;
+}
+
+
+.avatar-group .avatar:nth-child(-n+15) {
+  display: block;
+}
+
+@media (max-width: 440px) {
+  .avatar-group .avatar:nth-child(-n+10) {
+    display: block;
+  }
+
+  .avatar-group .avatar:nth-child(n+11):nth-child(-n+15) {
+    display: none;
+  }
+}
+
+@media (max-width: 350px) and (min-width: 200px) {
+  .avatar-group .avatar:nth-child(-n+5) {
+    display: block;
+  }
+
+  .avatar-group .avatar:nth-child(n+6):nth-child(-n+15) {
+    display: none;
+  }
+}*/
+
+.wallet-button {
+  background-color: white !important;
+  color: black !important;
+  padding: 8px 16px !important;
+}

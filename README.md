@@ -19,8 +19,13 @@ Building on Aptos allows us to leverage a highly scalable and efficient blockcha
 
 We also built a chrome extension to lets community members propose new accounts for their community list, directly from the Twitter UI:
 
-<img width="615" alt="image" src="https://github.com/user-attachments/assets/bc1b7b55-8d63-48e8-8d08-ebeab11a72a1">
+<img width="595" alt="Screenshot 2024-10-14 at 2 58 14 PM" src="https://github.com/user-attachments/assets/3f8cecfa-402a-42e7-a103-d7cd2acab8c2">
 
+_Profile shows rank in Aptos and other community lists._
+
+<img width="594" alt="Screenshot 2024-10-14 at 2 59 58 PM" src="https://github.com/user-attachments/assets/dd194aab-a907-4b21-8472-70a51639bbe6">
+
+_Similar, ranks are shown next to usernames throughout the feed._
 
 ## Development
 

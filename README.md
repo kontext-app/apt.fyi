@@ -31,7 +31,7 @@ _Propose accounts and new lists._
 
 ## Development
 
-### How to get scores for the most active Aptos users
+### How to get scores for the most active Aptos users, using Nodit Indexer
 
   1. Check the [explorer](https://aptos-explorer.xangle.io/blocks/228872725/block) for a blockheight that's about a day old, and curl this to get the "first_version":
   ```

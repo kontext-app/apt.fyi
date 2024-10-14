@@ -1,5 +1,7 @@
 [Aptos.fyi](https://aptos.fyi) shows the most relevant news from Aptos Twitter, by decentralizing the feed AI layer.
 
+<img width="1897" alt="Screenshot 2024-10-14 at 4 08 10 PM" src="https://github.com/user-attachments/assets/4107435d-abd4-4945-8553-14591fbe1b03">
+
 ## What problem is this solving?
 
 Twitter is _the_ central platform for online conversation about crypto (and a lot of global discussions, from sports to science, tech and politics). The problem is that it's hard to discover good content. The feed is a mess. The signal-to-noise ratio is low. And the only tool Twitter gives you as a solution are Twitter lists, which don't scale well as they only sort by time.

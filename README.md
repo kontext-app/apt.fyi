@@ -11,7 +11,7 @@ And to serve both offchain and onchain community members, Aptos.fyi allows anyon
 Aptos.fyi decentralizes AI curation, on Aptos.
 Aptos.fyi solves AI alignment, on Aptos.
 
-## Tech: Aptos + Nodit + Extension
+## Tech: [Aptos](https://aptoslabs.com/) + [Nodit](https://nodit.io/) + Chrome Extension
 
 Our stack is Next.js for the frontend, Node.js for the backend, and we are hosting our voting contracts on Aptos testnet. The Aptos contract allows our users to propose and vote on new accounts for the Aptos community list, adn to propose new variable settings as input to our feed AI.
 

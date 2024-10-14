@@ -14,7 +14,6 @@ let lensCfg: Partial<LensConfig> = {
 
 const aptosWallets = [new PetraWallet()];
 
-
 function MyApp({ Component, pageProps }: AppProps) {
   const { locale } = useRouter() as { locale: Locale };
   const url = `${getBaseUrl()}/api/trpc`;
